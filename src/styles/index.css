@@ -1,12 +1,19 @@
 
-/* 
+.container {
+    position: relative;
+    width: 25%;
+    padding-bottom: 25%;
+    margin: auto;
+    background-color: #ffcfae;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+}
 
-    You can write your own styles here...
-    
-    
-    ...Or you can use the import command to include 
-    other sylesheets into your bunde as well, e.j:
-    
-    import 'relative/path/to/stylesheet.scss';
+input {
+    width: 100%;
+    padding: 8px 16px;
+    position: absolute;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+}
 
-*/
