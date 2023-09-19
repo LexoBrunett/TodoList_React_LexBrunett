@@ -1,8 +1,6 @@
 
 .container {
-    position: relative;
-    width: 25%;
-    padding-bottom: 25%;
+    width: 100%;
     margin: auto;
     background-color: #ffcfae;
     font-family: 'Courier New', Courier, monospace;
@@ -12,7 +10,6 @@
 input {
     width: 100%;
     padding: 8px 16px;
-    position: absolute;
     font-family: 'Courier New', Courier, monospace;
     font-size: large;
 }
